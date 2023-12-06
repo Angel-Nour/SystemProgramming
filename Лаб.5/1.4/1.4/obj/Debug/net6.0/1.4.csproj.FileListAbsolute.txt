@@ -1,0 +1,14 @@
+C:\Настя. код\Лаб.5\1.4\1.4\bin\Debug\net6.0\1.4.exe
+C:\Настя. код\Лаб.5\1.4\1.4\bin\Debug\net6.0\1.4.deps.json
+C:\Настя. код\Лаб.5\1.4\1.4\bin\Debug\net6.0\1.4.runtimeconfig.json
+C:\Настя. код\Лаб.5\1.4\1.4\bin\Debug\net6.0\1.4.dll
+C:\Настя. код\Лаб.5\1.4\1.4\bin\Debug\net6.0\1.4.pdb
+C:\Настя. код\Лаб.5\1.4\1.4\obj\Debug\net6.0\1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Настя. код\Лаб.5\1.4\1.4\obj\Debug\net6.0\1.4.AssemblyInfoInputs.cache
+C:\Настя. код\Лаб.5\1.4\1.4\obj\Debug\net6.0\1.4.AssemblyInfo.cs
+C:\Настя. код\Лаб.5\1.4\1.4\obj\Debug\net6.0\1.4.csproj.CoreCompileInputs.cache
+C:\Настя. код\Лаб.5\1.4\1.4\obj\Debug\net6.0\1.4.dll
+C:\Настя. код\Лаб.5\1.4\1.4\obj\Debug\net6.0\refint\1.4.dll
+C:\Настя. код\Лаб.5\1.4\1.4\obj\Debug\net6.0\1.4.pdb
+C:\Настя. код\Лаб.5\1.4\1.4\obj\Debug\net6.0\1.4.genruntimeconfig.cache
+C:\Настя. код\Лаб.5\1.4\1.4\obj\Debug\net6.0\ref\1.4.dll

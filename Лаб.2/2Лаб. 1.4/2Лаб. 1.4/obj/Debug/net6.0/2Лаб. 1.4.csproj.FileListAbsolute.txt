@@ -1,0 +1,14 @@
+C:\Настя. код\2Лаб. 1.4\2Лаб. 1.4\obj\Debug\net6.0\2Лаб. 1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Настя. код\2Лаб. 1.4\2Лаб. 1.4\obj\Debug\net6.0\2Лаб. 1.4.AssemblyInfoInputs.cache
+C:\Настя. код\2Лаб. 1.4\2Лаб. 1.4\obj\Debug\net6.0\2Лаб. 1.4.AssemblyInfo.cs
+C:\Настя. код\2Лаб. 1.4\2Лаб. 1.4\obj\Debug\net6.0\2Лаб. 1.4.csproj.CoreCompileInputs.cache
+C:\Настя. код\2Лаб. 1.4\2Лаб. 1.4\bin\Debug\net6.0\2Лаб. 1.4.exe
+C:\Настя. код\2Лаб. 1.4\2Лаб. 1.4\bin\Debug\net6.0\2Лаб. 1.4.deps.json
+C:\Настя. код\2Лаб. 1.4\2Лаб. 1.4\bin\Debug\net6.0\2Лаб. 1.4.runtimeconfig.json
+C:\Настя. код\2Лаб. 1.4\2Лаб. 1.4\bin\Debug\net6.0\2Лаб. 1.4.dll
+C:\Настя. код\2Лаб. 1.4\2Лаб. 1.4\bin\Debug\net6.0\2Лаб. 1.4.pdb
+C:\Настя. код\2Лаб. 1.4\2Лаб. 1.4\obj\Debug\net6.0\2Лаб. 1.4.dll
+C:\Настя. код\2Лаб. 1.4\2Лаб. 1.4\obj\Debug\net6.0\refint\2Лаб. 1.4.dll
+C:\Настя. код\2Лаб. 1.4\2Лаб. 1.4\obj\Debug\net6.0\2Лаб. 1.4.pdb
+C:\Настя. код\2Лаб. 1.4\2Лаб. 1.4\obj\Debug\net6.0\2Лаб. 1.4.genruntimeconfig.cache
+C:\Настя. код\2Лаб. 1.4\2Лаб. 1.4\obj\Debug\net6.0\ref\2Лаб. 1.4.dll

@@ -1,0 +1,14 @@
+C:\Настя. код\Лаб. 2\Лаб.2 1.24\Лаб.2 1.24\bin\Debug\net6.0\Лаб.2 1.24.exe
+C:\Настя. код\Лаб. 2\Лаб.2 1.24\Лаб.2 1.24\bin\Debug\net6.0\Лаб.2 1.24.deps.json
+C:\Настя. код\Лаб. 2\Лаб.2 1.24\Лаб.2 1.24\bin\Debug\net6.0\Лаб.2 1.24.runtimeconfig.json
+C:\Настя. код\Лаб. 2\Лаб.2 1.24\Лаб.2 1.24\bin\Debug\net6.0\Лаб.2 1.24.dll
+C:\Настя. код\Лаб. 2\Лаб.2 1.24\Лаб.2 1.24\bin\Debug\net6.0\Лаб.2 1.24.pdb
+C:\Настя. код\Лаб. 2\Лаб.2 1.24\Лаб.2 1.24\obj\Debug\net6.0\Лаб.2 1.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Настя. код\Лаб. 2\Лаб.2 1.24\Лаб.2 1.24\obj\Debug\net6.0\Лаб.2 1.24.AssemblyInfoInputs.cache
+C:\Настя. код\Лаб. 2\Лаб.2 1.24\Лаб.2 1.24\obj\Debug\net6.0\Лаб.2 1.24.AssemblyInfo.cs
+C:\Настя. код\Лаб. 2\Лаб.2 1.24\Лаб.2 1.24\obj\Debug\net6.0\Лаб.2 1.24.csproj.CoreCompileInputs.cache
+C:\Настя. код\Лаб. 2\Лаб.2 1.24\Лаб.2 1.24\obj\Debug\net6.0\Лаб.2 1.24.dll
+C:\Настя. код\Лаб. 2\Лаб.2 1.24\Лаб.2 1.24\obj\Debug\net6.0\refint\Лаб.2 1.24.dll
+C:\Настя. код\Лаб. 2\Лаб.2 1.24\Лаб.2 1.24\obj\Debug\net6.0\Лаб.2 1.24.pdb
+C:\Настя. код\Лаб. 2\Лаб.2 1.24\Лаб.2 1.24\obj\Debug\net6.0\Лаб.2 1.24.genruntimeconfig.cache
+C:\Настя. код\Лаб. 2\Лаб.2 1.24\Лаб.2 1.24\obj\Debug\net6.0\ref\Лаб.2 1.24.dll

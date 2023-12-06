@@ -1,0 +1,14 @@
+C:\Настя. код\Лаб. 3\nj\nj\bin\Debug\net6.0\nj.exe
+C:\Настя. код\Лаб. 3\nj\nj\bin\Debug\net6.0\nj.deps.json
+C:\Настя. код\Лаб. 3\nj\nj\bin\Debug\net6.0\nj.runtimeconfig.json
+C:\Настя. код\Лаб. 3\nj\nj\bin\Debug\net6.0\nj.dll
+C:\Настя. код\Лаб. 3\nj\nj\bin\Debug\net6.0\nj.pdb
+C:\Настя. код\Лаб. 3\nj\nj\obj\Debug\net6.0\nj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Настя. код\Лаб. 3\nj\nj\obj\Debug\net6.0\nj.AssemblyInfoInputs.cache
+C:\Настя. код\Лаб. 3\nj\nj\obj\Debug\net6.0\nj.AssemblyInfo.cs
+C:\Настя. код\Лаб. 3\nj\nj\obj\Debug\net6.0\nj.csproj.CoreCompileInputs.cache
+C:\Настя. код\Лаб. 3\nj\nj\obj\Debug\net6.0\nj.dll
+C:\Настя. код\Лаб. 3\nj\nj\obj\Debug\net6.0\refint\nj.dll
+C:\Настя. код\Лаб. 3\nj\nj\obj\Debug\net6.0\nj.pdb
+C:\Настя. код\Лаб. 3\nj\nj\obj\Debug\net6.0\nj.genruntimeconfig.cache
+C:\Настя. код\Лаб. 3\nj\nj\obj\Debug\net6.0\ref\nj.dll
